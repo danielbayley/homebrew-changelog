@@ -18,12 +18,17 @@ git: https://github.com/git/git/tree/master/Documentation/RelNotes
 gnu-sed: https://savannah.gnu.org/news/?group=sed
 go: https://golang.org/doc/devel/release.html
 graphicsmagick: http://graphicsmagick.org/Changelog.html
+h2: http://www.h2database.com/html/changelog.html
 highlight: http://andre-simon.de/doku/highlight/en/changelog.php
+jq: https://raw.githubusercontent.com/stedolan/jq/master/NEWS
+kotlin: https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md
 libpng: https://sourceforge.net/p/libpng/news
 librsvg: https://wiki.gnome.org/RecentChanges
 libyaml: https://github.com/yaml/libyaml/blob/master/announcement.msg
+loc: https://github.com/cgag/loc/blob/master/CHANGELOG.md
 lua: https://lua.org/versions.html
 mas: https://github.com/mas-cli/mas/blob/master/CHANGELOG.md
+maven: https://maven.apache.org/docs/history.html
 moreutils: https://joeyh.name/recentchanges
 node: https://github.com/nodejs/node/blob/master/CHANGELOG.md
 openssl: https://openssl.org/news/changelog
@@ -36,6 +41,7 @@ shellcheck: https://github.com/koalaman/shellcheck/blob/master/CHANGELOG.md
 sqlite: https://sqlite.org/chronology.html
 svgcleaner: https://github.com/RazrFalcon/svgcleaner/blob/master/CHANGELOG.md
 tldr: https://github.com/tldr-pages/tldr-node-client/releases
+tig: https://jonas.github.io/tig/NEWS.html
 wakatime-cli: https://github.com/wakatime/wakatime/blob/master/HISTORY.rst
 wget: https://savannah.gnu.org/news/?group=wget
 xmlto: https://pagure.io/xmlto/commits/master
