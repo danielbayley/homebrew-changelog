@@ -2,6 +2,7 @@ anka-build: https://ankadoc.bitbucket.io/release-notes
 aria2: https://sourceforge.net/p/aria2/news
 asciidoc: http://asciidoc.org/CHANGELOG
 bitrise: https://discuss.bitrise.io/c/changelog
+composer: https://github.com/composer/composer/blob/master/CHANGELOG.md
 coreutils: http://git.savannah.gnu.org/gitweb/?p=coreutils.git;a=log
 corsixth: https://github.com/CorsixTH/CorsixTH/blob/master/changelog.txt
 dep: https://github.com/golang/dep/blob/master/CHANGELOG.md
