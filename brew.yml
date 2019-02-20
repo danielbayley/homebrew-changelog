@@ -77,6 +77,7 @@ pandoc: https://pandoc.org/releases
 pick: https://github.com/mptre/pick/blob/master/CHANGELOG.md
 png2ico: https://winterdrache.de/freeware/news/index
 pngcrush: https://pmt.sourceforge.io/pngcrush/ChangeLog.html
+python: https://docs.python.org/3/whatsnew/changelog.html
 ripgrep: https://github.com/BurntSushi/ripgrep/blob/master/CHANGELOG.md
 shellcheck: https://github.com/koalaman/shellcheck/blob/master/CHANGELOG.md
 sqlite: https://sqlite.org/chronology.html
