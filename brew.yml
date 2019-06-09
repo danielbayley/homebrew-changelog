@@ -20,6 +20,7 @@ cfssl: https://github.com/cloudflare/cfssl/releases
 composer: https://github.com/composer/composer/blob/master/CHANGELOG.md
 coreutils: http://git.savannah.gnu.org/gitweb/?p=coreutils.git;a=log
 corsixth: https://github.com/CorsixTH/CorsixTH/blob/master/changelog.txt
+crystal: https://github.com/crystal-lang/crystal/blob/master/CHANGELOG.md
 csvkit: https://csvkit.readthedocs.io/en/1.0.3/changelog.html
 curl: https://curl.haxx.se/changes.html
 dep: https://github.com/golang/dep/blob/master/CHANGELOG.md
