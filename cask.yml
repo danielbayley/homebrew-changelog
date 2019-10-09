@@ -10,13 +10,15 @@ battle-net: https://us.battle.net/forums/en/patch-notes
 dash: https://blog.kapeli.com/archives
 droplr: https://headwayapp.co/droplr-changelog
 duet: https://help.duetdisplay.com/updates/mac-release-notes
+enpass: https://enpass.io/release-notes/macos-website-ver
 evernote: https://itunes.apple.com/gb/app/evernote/id281796108?mt=8
 firefox: https://mozilla.org/en-US/firefox/releases
 flash-player: https://helpx.adobe.com/uk/flash-player/flash-player-releasenotes.html
 franz: https://meetfranz.com/changelog
 google-chrome: https://chromereleases.googleblog.com/search/label/Desktop%20Update
-hazel: https://www.noodlesoft.com/release_notes
+hazel: https://noodlesoft.com/release_notes
 imazing: https://imazing.com/tag/update
+intellij-idea: https://jetbrains.com/idea/whatsnew
 kaleidoscope: https://kaleidoscopeapp.com/release-notes
 keepassxc: https://github.com/keepassxreboot/keepassxc/blob/develop/CHANGELOG.md
 latest: https://github.com/mangerlahn/Latest/releases
@@ -24,6 +26,7 @@ livesurface-context: https://livesurface.com/blog.php
 lottie: https://github.com/airbnb/lottie-web/blob/master/CHANGELOG.md
 mailspring: https://github.com/Foundry376/Mailspring/blob/master/CHANGELOG.md
 management-tools: https://github.com/univ-of-utah-marriott-library-apple/management_tools#update-history
+mattermost: https://docs.mattermost.com/help/apps/desktop-changelog.html
 musicbrainz-picard: https://picard.musicbrainz.org/changelog
 native-access: https://native-instruments.com/forum/forums/native-access.376
 nteract: https://github.com/nteract/nteract/blob/master/CHANGELOG.md
@@ -37,5 +40,9 @@ spotify: https://community.spotify.com/t5/Community-Blog/All-Spotify-Release-Not
 station: https://community.getstation.com/c/release-notes
 subler: https://bitbucket.org/galad87/subler/wiki/Release%20Notes
 sublercli: https://bitbucket.org/galad87/sublercli/commits/all
+sublime-text: https://sublimetext.com/3
 thingsmacsandboxhelper: https://support.culturedcode.com/customer/portal/articles/1100684
 usb-overdrive: http://usboverdrive.com/USBOverdrive/Download.html
+virtualbox: https://virtualbox.org/wiki/Changelog
+vivaldi: https://vivaldi.com/blog
+vlc: https://videolan.org/developers/vlc-branch/NEWS
