@@ -1,12 +1,14 @@
-[Homebrew] `changelog`
-======================
+_[Homebrew]_ `changelog`
+=======================
 Following on from [Homebrew/brew#3399], this is an effort to introduce a `changelog` _[stanza]_ into Home`brew` and `cask`.
 
-Hopefully this will follow the process of the [`desc`]ription stanza, and so initially this will be in the from of an [external command], made available with a _[tap]_:
+Hopefully this will follow the process of the [`desc`]ription stanza, and so initially this will be in the from of an [external command], made available with this _[tap]_…
+
+Install
+-------
 ~~~ sh
 brew tap danielbayley/changelog
-brew changelog #formula
-brew cask changelog #cask
+brew changelog #formula #cask
 ~~~
 
 Contribute
@@ -31,3 +33,6 @@ License
 [`cask`.yml]:         cask.yml
 
 [Homebrew/brew#3399]: https://github.com/Homebrew/brew/issues/3399#issuecomment-340488771
+
+
+<!-- TODO https://github.com/Homebrew/brew/pull/8137 -->
